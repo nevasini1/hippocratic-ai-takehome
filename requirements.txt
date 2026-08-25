@@ -1,0 +1,2 @@
+# The implementation uses the modern OpenAI client.chat.completions interface.
+openai>=1.0.0,<3.0.0
